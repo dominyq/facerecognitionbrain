@@ -2,8 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Courier New", Courier, monospace;
-  background: rgb(208,113,230);
-  background: linear-gradient(90deg, rgba(208,113,230,1) 6%, rgba(218,119,202,1) 35%, rgba(101,198,209,1) 100%);
+  background: rgb(198,28,89);
+  background: linear-gradient(90deg, rgba(198,28,89,1) 4%, rgba(208,29,153,1) 40%, rgba(132,32,185,1) 94%);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
